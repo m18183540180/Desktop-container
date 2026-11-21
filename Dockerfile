@@ -1,6 +1,6 @@
 FROM lscr.io/linuxserver/chromium:latest
 
-ENV TZ=Asia/Shanghai \
+ENV TZ=America/Los_Angeles \
     PUID=1000 \
     PGID=1000 \
     CUSTOM_USER=admin \
