@@ -1,5 +1,4 @@
-FROM lscr.io/linuxserver/chromium:latest
-
+FROM lscr.io/linuxserver/chromium
 ENV TZ=America/Los_Angeles \
     PUID=1000 \
     PGID=1000 \
